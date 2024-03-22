@@ -2,6 +2,8 @@
 
 <img width="1211" alt="Screenshot 2024-03-09 at 2 50 58 PM" src="https://github.com/prashantkapse01/Volltreffer-Sports/assets/140623790/deb2c503-7620-4692-b30e-ce3543f26de2">
 
+Dashboard Link- https://www.novypro.com/project/volltreffer-sports-sales-analysis
+
 ## Introduction
 
 In the dynamic landscape of sports retail, staying ahead of the competition requires a deep understanding of sales patterns, customer behaviors, and market trends. The Volltreffer Sports Sales Analysis project aims to provide actionable insights by leveraging of Data.
